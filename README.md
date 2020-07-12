@@ -30,3 +30,16 @@
     };
 
 Ключи в параметрах LOCAL_CONFIRM_KEY и specifykey должны совпадать.
+
+Для настройки учетной записи админа необходимо зайти в файл
+
+    database/seeds/UserTableSeeder.php
+
+установить свои данных для входа
+
+    $admin->email = '\\';
+    $admin->password = Hash::make('\\');
+
+при настройке проекта использовать команду
+
+    php artisan migrate --seed
