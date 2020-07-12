@@ -1,0 +1,18 @@
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Сканер РЗА.deps.json
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Сканер РЗА.dll
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\ref\Сканер РЗА.dll
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Сканер РЗА.pdb
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Mono.Android.dll
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Mono.Android.pdb
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\bin\Release\netstandard2.0\Mono.Android.xml
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\RzaolyScan.csprojAssemblyReference.cache
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\RzaolyScan.AssemblyInfoInputs.cache
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\RzaolyScan.AssemblyInfo.cs
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\RzaolyScan.csproj.CoreCompileInputs.cache
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\XamlC.stamp
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\RzaolyScan.csproj.CopyComplete
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\Сканер РЗА.dll
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\ref\Сканер РЗА.dll
+D:\OSPanel\rzaolyscan\RzaolyScan\RzaolyScan\RzaolyScan\obj\Release\netstandard2.0\Сканер РЗА.pdb
