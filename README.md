@@ -1,12 +1,17 @@
 
 # Исходный код сайта информационной поддержки "Реальность. Задача. Алгоритм"
 
+## Ссылка на архив с исходными файлами сайта и ядром (без приложения):
+    https://drive.google.com/file/d/1zXJkpgYqVLLgZvJuR5YuHoTzZFyAZjDm/view
+    Необходима версия PHP 7.4
+
 ## Используемые технологии:
 
 - HTML
 - CSS
 - JavaScript
 - [jQuery](https://jquery.com/)
+- PHP
 - [Laravel Framework](https://laravel.com/)
 - [Bootstrap 4](https://getbootstrap.com/)
 - [dompdf Laravel](https://github.com/barryvdh/laravel-dompdf)
