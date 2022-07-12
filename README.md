@@ -4,6 +4,9 @@
 ## Ссылка на архив с исходными файлами сайта и ядром:
     https://drive.google.com/file/d/1zXJkpgYqVLLgZvJuR5YuHoTzZFyAZjDm/view
     Необходима версия PHP 7.4
+    
+## Демо:
+http://f0643734.xsph.ru/
 
 ## Используемые технологии:
 
